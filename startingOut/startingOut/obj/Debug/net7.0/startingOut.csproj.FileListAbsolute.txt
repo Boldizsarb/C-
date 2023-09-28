@@ -1,0 +1,15 @@
+/Users/boldizsarbanfia/Projects/startingOut/startingOut/bin/Debug/net7.0/startingOut
+/Users/boldizsarbanfia/Projects/startingOut/startingOut/bin/Debug/net7.0/startingOut.deps.json
+/Users/boldizsarbanfia/Projects/startingOut/startingOut/bin/Debug/net7.0/startingOut.runtimeconfig.json
+/Users/boldizsarbanfia/Projects/startingOut/startingOut/bin/Debug/net7.0/startingOut.dll
+/Users/boldizsarbanfia/Projects/startingOut/startingOut/bin/Debug/net7.0/startingOut.pdb
+/Users/boldizsarbanfia/Projects/startingOut/startingOut/obj/Debug/net7.0/startingOut.csproj.AssemblyReference.cache
+/Users/boldizsarbanfia/Projects/startingOut/startingOut/obj/Debug/net7.0/startingOut.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boldizsarbanfia/Projects/startingOut/startingOut/obj/Debug/net7.0/startingOut.AssemblyInfoInputs.cache
+/Users/boldizsarbanfia/Projects/startingOut/startingOut/obj/Debug/net7.0/startingOut.AssemblyInfo.cs
+/Users/boldizsarbanfia/Projects/startingOut/startingOut/obj/Debug/net7.0/startingOut.csproj.CoreCompileInputs.cache
+/Users/boldizsarbanfia/Projects/startingOut/startingOut/obj/Debug/net7.0/startingOut.dll
+/Users/boldizsarbanfia/Projects/startingOut/startingOut/obj/Debug/net7.0/refint/startingOut.dll
+/Users/boldizsarbanfia/Projects/startingOut/startingOut/obj/Debug/net7.0/startingOut.pdb
+/Users/boldizsarbanfia/Projects/startingOut/startingOut/obj/Debug/net7.0/startingOut.genruntimeconfig.cache
+/Users/boldizsarbanfia/Projects/startingOut/startingOut/obj/Debug/net7.0/ref/startingOut.dll
