@@ -1,12 +1,9 @@
 ﻿<Properties StartupConfiguration="{0FA73FBD-0A0C-4442-B6F7-673A1857B8B5}|Default">
   <MonoDevelop.Ide.ItemProperties.stringData FirstBuild="True" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.learningLinkedIn PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RegEx FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="stringData/Program.cs">
     <Files>
       <File FileName="learningLinkedIn/Program.cs" />
@@ -25,4 +22,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Files FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.UsingNumbersAndDate FirstBuild="True" />
 </Properties>

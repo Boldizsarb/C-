@@ -1,0 +1,15 @@
+/Users/boldizsarbanfia/Projects/learningLinkedIn/Files/bin/Debug/net7.0/Files
+/Users/boldizsarbanfia/Projects/learningLinkedIn/Files/bin/Debug/net7.0/Files.deps.json
+/Users/boldizsarbanfia/Projects/learningLinkedIn/Files/bin/Debug/net7.0/Files.runtimeconfig.json
+/Users/boldizsarbanfia/Projects/learningLinkedIn/Files/bin/Debug/net7.0/Files.dll
+/Users/boldizsarbanfia/Projects/learningLinkedIn/Files/bin/Debug/net7.0/Files.pdb
+/Users/boldizsarbanfia/Projects/learningLinkedIn/Files/obj/Debug/net7.0/Files.csproj.AssemblyReference.cache
+/Users/boldizsarbanfia/Projects/learningLinkedIn/Files/obj/Debug/net7.0/Files.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boldizsarbanfia/Projects/learningLinkedIn/Files/obj/Debug/net7.0/Files.AssemblyInfoInputs.cache
+/Users/boldizsarbanfia/Projects/learningLinkedIn/Files/obj/Debug/net7.0/Files.AssemblyInfo.cs
+/Users/boldizsarbanfia/Projects/learningLinkedIn/Files/obj/Debug/net7.0/Files.csproj.CoreCompileInputs.cache
+/Users/boldizsarbanfia/Projects/learningLinkedIn/Files/obj/Debug/net7.0/Files.dll
+/Users/boldizsarbanfia/Projects/learningLinkedIn/Files/obj/Debug/net7.0/refint/Files.dll
+/Users/boldizsarbanfia/Projects/learningLinkedIn/Files/obj/Debug/net7.0/Files.pdb
+/Users/boldizsarbanfia/Projects/learningLinkedIn/Files/obj/Debug/net7.0/Files.genruntimeconfig.cache
+/Users/boldizsarbanfia/Projects/learningLinkedIn/Files/obj/Debug/net7.0/ref/Files.dll

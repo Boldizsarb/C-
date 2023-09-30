@@ -1,0 +1,15 @@
+/Users/boldizsarbanfia/Projects/learningLinkedIn/RegEx/bin/Debug/net7.0/RegEx
+/Users/boldizsarbanfia/Projects/learningLinkedIn/RegEx/bin/Debug/net7.0/RegEx.deps.json
+/Users/boldizsarbanfia/Projects/learningLinkedIn/RegEx/bin/Debug/net7.0/RegEx.runtimeconfig.json
+/Users/boldizsarbanfia/Projects/learningLinkedIn/RegEx/bin/Debug/net7.0/RegEx.dll
+/Users/boldizsarbanfia/Projects/learningLinkedIn/RegEx/bin/Debug/net7.0/RegEx.pdb
+/Users/boldizsarbanfia/Projects/learningLinkedIn/RegEx/obj/Debug/net7.0/RegEx.csproj.AssemblyReference.cache
+/Users/boldizsarbanfia/Projects/learningLinkedIn/RegEx/obj/Debug/net7.0/RegEx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boldizsarbanfia/Projects/learningLinkedIn/RegEx/obj/Debug/net7.0/RegEx.AssemblyInfoInputs.cache
+/Users/boldizsarbanfia/Projects/learningLinkedIn/RegEx/obj/Debug/net7.0/RegEx.AssemblyInfo.cs
+/Users/boldizsarbanfia/Projects/learningLinkedIn/RegEx/obj/Debug/net7.0/RegEx.csproj.CoreCompileInputs.cache
+/Users/boldizsarbanfia/Projects/learningLinkedIn/RegEx/obj/Debug/net7.0/RegEx.dll
+/Users/boldizsarbanfia/Projects/learningLinkedIn/RegEx/obj/Debug/net7.0/refint/RegEx.dll
+/Users/boldizsarbanfia/Projects/learningLinkedIn/RegEx/obj/Debug/net7.0/RegEx.pdb
+/Users/boldizsarbanfia/Projects/learningLinkedIn/RegEx/obj/Debug/net7.0/RegEx.genruntimeconfig.cache
+/Users/boldizsarbanfia/Projects/learningLinkedIn/RegEx/obj/Debug/net7.0/ref/RegEx.dll

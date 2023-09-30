@@ -1,0 +1,15 @@
+/Users/boldizsarbanfia/Projects/learningLinkedIn/UsingNumbersAndDate/bin/Debug/net7.0/UsingNumbersAndDate
+/Users/boldizsarbanfia/Projects/learningLinkedIn/UsingNumbersAndDate/bin/Debug/net7.0/UsingNumbersAndDate.deps.json
+/Users/boldizsarbanfia/Projects/learningLinkedIn/UsingNumbersAndDate/bin/Debug/net7.0/UsingNumbersAndDate.runtimeconfig.json
+/Users/boldizsarbanfia/Projects/learningLinkedIn/UsingNumbersAndDate/bin/Debug/net7.0/UsingNumbersAndDate.dll
+/Users/boldizsarbanfia/Projects/learningLinkedIn/UsingNumbersAndDate/bin/Debug/net7.0/UsingNumbersAndDate.pdb
+/Users/boldizsarbanfia/Projects/learningLinkedIn/UsingNumbersAndDate/obj/Debug/net7.0/UsingNumbersAndDate.csproj.AssemblyReference.cache
+/Users/boldizsarbanfia/Projects/learningLinkedIn/UsingNumbersAndDate/obj/Debug/net7.0/UsingNumbersAndDate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boldizsarbanfia/Projects/learningLinkedIn/UsingNumbersAndDate/obj/Debug/net7.0/UsingNumbersAndDate.AssemblyInfoInputs.cache
+/Users/boldizsarbanfia/Projects/learningLinkedIn/UsingNumbersAndDate/obj/Debug/net7.0/UsingNumbersAndDate.AssemblyInfo.cs
+/Users/boldizsarbanfia/Projects/learningLinkedIn/UsingNumbersAndDate/obj/Debug/net7.0/UsingNumbersAndDate.csproj.CoreCompileInputs.cache
+/Users/boldizsarbanfia/Projects/learningLinkedIn/UsingNumbersAndDate/obj/Debug/net7.0/UsingNumbersAndDate.dll
+/Users/boldizsarbanfia/Projects/learningLinkedIn/UsingNumbersAndDate/obj/Debug/net7.0/refint/UsingNumbersAndDate.dll
+/Users/boldizsarbanfia/Projects/learningLinkedIn/UsingNumbersAndDate/obj/Debug/net7.0/UsingNumbersAndDate.pdb
+/Users/boldizsarbanfia/Projects/learningLinkedIn/UsingNumbersAndDate/obj/Debug/net7.0/UsingNumbersAndDate.genruntimeconfig.cache
+/Users/boldizsarbanfia/Projects/learningLinkedIn/UsingNumbersAndDate/obj/Debug/net7.0/ref/UsingNumbersAndDate.dll
